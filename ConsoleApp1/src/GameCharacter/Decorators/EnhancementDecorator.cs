@@ -19,6 +19,11 @@ namespace GameCharacter.Decorators
 
         public string Name => _character.Name;
 
+        public int DealDamage(Character character)
+        {
+            throw new NotImplementedException();
+        }
+
         public virtual void DisplayStats()
         {
             _character.DisplayStats();
