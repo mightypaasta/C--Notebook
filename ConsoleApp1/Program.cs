@@ -5,6 +5,7 @@ using ConsoleApp1.src.Coffeeshop.Decorators;
 using ConsoleApp1.src.Coffeeshop.Interfaces;
 using ConsoleApp1.src.Facade.Easy.MediaPlayer;
 using ConsoleApp1.src.Flyweight.Easy.Shapes;
+using ConsoleApp1.src.Proxy.Easy.ImageLoader;
 using GameCharacter.Arena;
 using GameCharacter.Base;
 using GameCharacter.Components;
@@ -22,7 +23,7 @@ static class Program {
         //beverage2 = new WithMilk(beverage2);
         //beverage2 = new withMocha(beverage2);
         //Console.WriteLine(beverage2.GetDescription() + " $" + beverage2.GetCost());
-        
+
         //Console.WriteLine("Hello, World!");
 
         //Character warrior = new Warrior("Hercules");
@@ -45,12 +46,17 @@ static class Program {
 
         // Flyweight pattern Code
 
-        CircleFactory circleFactory = new CircleFactory();
-        IShape redCircle = circleFactory.GetCircle("Red");
-        redCircle.draw(new CircleContext(3, 4));
-        IShape blueCircle = circleFactory.GetCircle("Blue");
-        blueCircle.draw(new CircleContext(1, 2));
-        IShape newCircle = circleFactory.GetCircle("Red");
-        newCircle.draw(new CircleContext(6, 9));
+        //CircleFactory circleFactory = new CircleFactory();
+        //IShape redCircle = circleFactory.GetCircle("Red");
+        //redCircle.draw(new CircleContext(3, 4));
+        //IShape blueCircle = circleFactory.GetCircle("Blue");
+        //blueCircle.draw(new CircleContext(1, 2));
+        //IShape newCircle = circleFactory.GetCircle("Red");
+        //newCircle.draw(new CircleContext(6, 9));
+
+        // Proxy Pattern Code
+
+        IImage funImage = new ProxyImage();
+        funImage.display("fun.png");
     }
 }
