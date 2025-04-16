@@ -4,6 +4,7 @@ using ConsoleApp1.src.Coffeeshop.BaseComponents;
 using ConsoleApp1.src.Coffeeshop.Decorators;
 using ConsoleApp1.src.Coffeeshop.Interfaces;
 using ConsoleApp1.src.Facade.Easy.MediaPlayer;
+using ConsoleApp1.src.Flyweight.Easy.Shapes;
 using GameCharacter.Arena;
 using GameCharacter.Base;
 using GameCharacter.Components;
@@ -35,9 +36,21 @@ static class Program {
         //Arena arena = new Arena(warrior,mage);
         //arena.StartFight();
 
-        IMediaPlayer player = new MediaPlayerFacade();
-        player.PlayMedia(MediaTypes.Audio, "Siyah");
-        player.PlayMedia(MediaTypes.Video, "Shameless");
-        player.PlayMedia(MediaTypes.Subtitle, "Verses");
+        // Facade Pattern Code
+
+        //IMediaPlayer player = new MediaPlayerFacade();
+        //player.PlayMedia(MediaTypes.Audio, "Siyah");
+        //player.PlayMedia(MediaTypes.Video, "Shameless");
+        //player.PlayMedia(MediaTypes.Subtitle, "Verses");
+
+        // Flyweight pattern Code
+
+        CircleFactory circleFactory = new CircleFactory();
+        IShape redCircle = circleFactory.GetCircle("Red");
+        redCircle.draw(new CircleContext(3, 4));
+        IShape blueCircle = circleFactory.GetCircle("Blue");
+        blueCircle.draw(new CircleContext(1, 2));
+        IShape newCircle = circleFactory.GetCircle("Red");
+        newCircle.draw(new CircleContext(6, 9));
     }
 }
