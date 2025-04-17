@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\itsk1\\source\\repos\\c--notebook\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\itsk1\\source\\repos\\c--notebook\\consoleapp1\\src\\proxy\\easy\\imageloader\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\proxy\\easy\\imageloader\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\itsk1\\source\\repos\\c--notebook\\consoleapp1\\src\\flyweight\\easy\\shapes\\circlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\flyweight\\easy\\shapes\\circlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\itsk1\\source\\repos\\c--notebook\\consoleapp1\\src\\gamecharacter\\decorators\\enhancementdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\gamecharacter\\decorators\\enhancementdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\itsk1\\source\\repos\\c--notebook\\consoleapp1\\src\\facade\\easy\\mediaplayer\\mediaplayerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88FA879-7ADF-40F5-8FDA-5E01DB2441A9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\src\\facade\\easy\\mediaplayer\\mediaplayerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageLoader.cs",
+              "DocumentMoniker": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\src\\Proxy\\Easy\\ImageLoader\\ImageLoader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\Proxy\\Easy\\ImageLoader\\ImageLoader.cs",
+              "ToolTip": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\src\\Proxy\\Easy\\ImageLoader\\ImageLoader.cs*",
+              "RelativeToolTip": "ConsoleApp1\\src\\Proxy\\Easy\\ImageLoader\\ImageLoader.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:01:08.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircleContext.cs",
+              "DocumentMoniker": "C:\\Users\\itsk1\\Source\\Repos\\C--Notebook\\ConsoleApp1\\src\\Flyweight\\Easy\\Shapes\\CircleContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\Flyweight\\Easy\\Shapes\\CircleContext.cs",
+              "ToolTip": "C:\\Users\\itsk1\\Source\\Repos\\C--Notebook\\ConsoleApp1\\src\\Flyweight\\Easy\\Shapes\\CircleContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\Flyweight\\Easy\\Shapes\\CircleContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:24:26.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnhancementDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\src\\GameCharacter\\Decorators\\EnhancementDecorator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\GameCharacter\\Decorators\\EnhancementDecorator.cs",
+              "ToolTip": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\src\\GameCharacter\\Decorators\\EnhancementDecorator.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\GameCharacter\\Decorators\\EnhancementDecorator.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:21:53.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:08:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MediaPlayerFacade.cs",
+              "DocumentMoniker": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\src\\Facade\\Easy\\MediaPlayer\\MediaPlayerFacade.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\src\\Facade\\Easy\\MediaPlayer\\MediaPlayerFacade.cs",
+              "ToolTip": "C:\\Users\\itsk1\\source\\repos\\C--Notebook\\ConsoleApp1\\src\\Facade\\Easy\\MediaPlayer\\MediaPlayerFacade.cs",
+              "RelativeToolTip": "ConsoleApp1\\src\\Facade\\Easy\\MediaPlayer\\MediaPlayerFacade.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:53:15.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

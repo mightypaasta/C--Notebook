@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sanjaykumar/Documents/c-sharp/ConsoleApp1/ConsoleApp1.csproj": {}
+    "C:\\Users\\itsk1\\Source\\Repos\\C--Notebook\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/sanjaykumar/Documents/c-sharp/ConsoleApp1/ConsoleApp1.csproj": {
+    "C:\\Users\\itsk1\\Source\\Repos\\C--Notebook\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sanjaykumar/Documents/c-sharp/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\itsk1\\Source\\Repos\\C--Notebook\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/sanjaykumar/Documents/c-sharp/ConsoleApp1/ConsoleApp1.csproj",
-        "packagesPath": "/Users/sanjaykumar/.nuget/packages/",
-        "outputPath": "/Users/sanjaykumar/Documents/c-sharp/ConsoleApp1/obj/",
+        "projectPath": "C:\\Users\\itsk1\\Source\\Repos\\C--Notebook\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\itsk1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\itsk1\\Source\\Repos\\C--Notebook\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/sanjaykumar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\itsk1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
